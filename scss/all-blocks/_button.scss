@@ -1,0 +1,22 @@
+.main__btn{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #333136;
+    border: 1px solid #fff;
+    padding: 18px 25px;
+    border-radius: 8px;
+    margin-right: 95px;
+    transition: .2s all;
+    border: transparent;
+    transform: scale(1);
+}
+.main__btn:hover{
+    background: #E7816B;
+    color: #fff;
+    border: none;
+    box-shadow: 5px 5px 10px #b95842 ;
+    transform: scale(1.05);
+}
